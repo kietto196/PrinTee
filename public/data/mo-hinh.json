@@ -5,56 +5,967 @@
   "description": "Mô hình khớp nối, mô hình in liền khối, không cần lắp ráp.",
   "products": [
     {
-      "id": "rong-khop-noi",
-      "title": "Rồng khớp nối in liền khối [Không cần AMS]",
-      "date": "2026-11-17",
-      "featured": true,
-      "price": "120.000đ",
-      "tags": ["rồng", "khớp nối", "flexi", "print in place"],
-      "specs": {
-        "Kích thước": "28 cm (dài)",
-        "Chất liệu": "PLA Silk",
-        "Số màu": "1 màu (hoặc đổi màu theo lớp)",
-        "Lắp ráp": "Không cần, in liền khối"
-      },
-      "profiles": [
-        { "name": "0.2mm layer, 2 walls, 15% infill", "badge": "Khuyên dùng", "time": "6.5 h", "plates": 1 },
-        { "name": "0.16mm layer, 3 walls, 10% infill", "time": "9.2 h", "plates": 1 }
+      "id": "3517255-no-ams-uzumaki-naruto",
+      "title": "【NO AMS】Uzumaki Naruto",
+      "date": "2026-11-18",
+      "author": "我是奶龙",
+      "source": "https://makerworld.com/en/models/3517255-no-ams-uzumaki-naruto",
+      "tags": [
+        "không cần AMS",
+        "Naruto"
       ],
+      "specs": {
+        "Thiết kế": "我是奶龙",
+        "Nguồn": "MakerWorld"
+      },
       "description": [
-        "Rồng **khớp nối in liền khối**: in xong bẻ nhẹ là các khớp chuyển động được ngay, không cần lắp ráp hay keo dán.",
+        "Mẫu thiết kế bởi **我是奶龙**, đăng trên MakerWorld.",
         "",
-        "## Điểm nổi bật",
-        "- Thân 24 đốt, uốn lượn mềm mại",
-        "- Hợp với nhựa Silk đổi màu, nhìn rất bắt mắt",
-        "- Không cần support",
-        "",
-        "## Gợi ý khi in",
-        "1. Bàn in phải thật phẳng, nên dùng keo dán bàn",
-        "2. Tốc độ lớp đầu khoảng 30 mm/s",
-        "3. In xong để nguội rồi mới gỡ, bẻ nhẹ từng khớp"
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
       ]
     },
     {
-      "id": "ca-map-flexi",
-      "title": "Cá mập Flexi mini",
-      "date": "2026-11-12",
-      "price": "45.000đ",
-      "tags": ["cá mập", "flexi", "khớp nối", "quà tặng"],
-      "specs": { "Kích thước": "15 cm", "Chất liệu": "PLA", "Số màu": "2 màu" },
-      "profiles": [{ "name": "0.2mm layer, 2 walls, 15% infill", "time": "2.1 h", "plates": 1 }],
-      "description": "Cá mập nhỏ uốn được, làm quà tặng hoặc móc khoá rất hợp.\nIn nhanh, chỉ khoảng 2 tiếng."
+      "id": "3446469-naruto-hinata-no-ams",
+      "title": "Naruto -- Hinata 【no AMS】",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3446469-naruto-hinata-no-ams",
+      "tags": [
+        "không cần AMS",
+        "Naruto"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
     },
     {
-      "id": "xe-tang-mini",
-      "title": "Xe tăng mini lắp ráp (bánh xích chạy được)",
-      "date": "2026-10-28",
-      "tags": ["xe", "lắp ráp", "mô hình"],
-      "specs": { "Kích thước": "18 cm", "Chất liệu": "PLA + TPU (bánh xích)", "Số chi tiết": "32" },
-      "profiles": [
-        { "name": "0.16mm layer, 3 walls, 15% infill", "time": "11.4 h", "plates": 4 }
+      "id": "3610759-shaman-king-hao-asakura-no-ams-required",
+      "title": "Shaman King -- Hao Asakura [no AMS required]",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3610759-shaman-king-hao-asakura-no-ams-required",
+      "tags": [
+        "không cần AMS",
+        "Shaman King"
       ],
-      "description": "Mô hình xe tăng gồm 32 chi tiết, ráp bằng chốt, **không cần keo**. Bánh xích in bằng TPU nên lăn được thật."
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3331548-demon-slayer-kimetsu-no-yaiba-tanjiro-kamado",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Tanjiro Kamado",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3331548-demon-slayer-kimetsu-no-yaiba-tanjiro-kamado",
+      "tags": [
+        "Demon Slayer"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3501907-friendly-greeting-ghost-flexi-when-pressed",
+      "title": "Friendly greeting ghost! Flexi when pressed",
+      "date": "2026-11-18",
+      "author": "钱先生",
+      "source": "https://makerworld.com/en/models/3501907-friendly-greeting-ghost-flexi-when-pressed",
+      "tags": [
+        "con ma",
+        "flexi"
+      ],
+      "specs": {
+        "Thiết kế": "钱先生",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **钱先生**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3331434-demon-slayer-nezuko",
+      "title": "Demon Slayer - Nezuko",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3331434-demon-slayer-nezuko",
+      "tags": [
+        "Demon Slayer"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3507180-naruto-jiraiya-no-ams-required",
+      "title": "Naruto--Jiraiya [no AMS required]",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3507180-naruto-jiraiya-no-ams-required",
+      "tags": [
+        "không cần AMS",
+        "Naruto"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3331577-inuyasha-sesshomaru",
+      "title": "Inuyasha - Sesshomaru",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3331577-inuyasha-sesshomaru",
+      "tags": [
+        "Inuyasha"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3400852-bleach-ichigo-kurosaki",
+      "title": "Bleach --- Ichigo Kurosaki",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3400852-bleach-ichigo-kurosaki",
+      "tags": [
+        "Bleach"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2459726-shenlong-no-ams",
+      "title": "Shenlong - No AMS",
+      "date": "2026-11-18",
+      "author": "Rafael Muniz",
+      "source": "https://makerworld.com/en/models/2459726-shenlong-no-ams",
+      "tags": [
+        "không cần AMS",
+        "Dragon Ball"
+      ],
+      "specs": {
+        "Thiết kế": "Rafael Muniz",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Rafael Muniz**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3150396-super-saiyan-3-goku-no-ams",
+      "title": "Super Saiyan 3 Goku (NO AMS)",
+      "date": "2026-11-18",
+      "author": "BeardedRhino",
+      "source": "https://makerworld.com/en/models/3150396-super-saiyan-3-goku-no-ams",
+      "tags": [
+        "không cần AMS",
+        "Dragon Ball"
+      ],
+      "specs": {
+        "Thiết kế": "BeardedRhino",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **BeardedRhino**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3337011-naruto-uchiha-itachi",
+      "title": "Naruto - Uchiha Itachi",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3337011-naruto-uchiha-itachi",
+      "tags": [
+        "Naruto"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3341452-demon-slayer-doma",
+      "title": "Demon Slayer - Doma",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3341452-demon-slayer-doma",
+      "tags": [
+        "Demon Slayer"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3331380-chibi-naruto-sasuke",
+      "title": "Chibi Naruto Sasuke",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3331380-chibi-naruto-sasuke",
+      "tags": [
+        "Naruto",
+        "chibi"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3331422-bleach-toushiro-hitsugaya",
+      "title": "Bleach - Toushiro Hitsugaya",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3331422-bleach-toushiro-hitsugaya",
+      "tags": [
+        "Bleach"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3331509-bleach-ichigo-kurosaki",
+      "title": "Bleach - Ichigo Kurosaki",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3331509-bleach-ichigo-kurosaki",
+      "tags": [
+        "Bleach"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2336351-dragon-ball-daima-super-saiyan-3-goku-multi-part",
+      "title": "Dragon Ball Daima - Super Saiyan 3 Goku [Multi-part]",
+      "date": "2026-11-18",
+      "author": "我是奶龙",
+      "source": "https://makerworld.com/en/models/2336351-dragon-ball-daima-super-saiyan-3-goku-multi-part",
+      "tags": [
+        "nhiều mảnh",
+        "Dragon Ball"
+      ],
+      "specs": {
+        "Thiết kế": "我是奶龙",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **我是奶龙**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2914076-minion-zoro-edition-multi-part",
+      "title": "Minion Zoro Edition – Multi-Part",
+      "date": "2026-11-18",
+      "author": "CWP",
+      "source": "https://makerworld.com/en/models/2914076-minion-zoro-edition-multi-part",
+      "tags": [
+        "nhiều mảnh",
+        "One Piece",
+        "hoạt hình"
+      ],
+      "specs": {
+        "Thiết kế": "CWP",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **CWP**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2643889-action-figure-mahoraga-jujutsu-kaisen",
+      "title": "action figure Mahoraga - Jujutsu Kaisen",
+      "date": "2026-11-18",
+      "author": "3dgui",
+      "source": "https://makerworld.com/en/models/2643889-action-figure-mahoraga-jujutsu-kaisen",
+      "tags": [
+        "Jujutsu Kaisen",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "3dgui",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **3dgui**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3366454-inuyasha-sesshomaru",
+      "title": "Inuyasha - Sesshomaru",
+      "date": "2026-11-18",
+      "author": "无休无止",
+      "source": "https://makerworld.com/en/models/3366454-inuyasha-sesshomaru",
+      "tags": [
+        "Inuyasha"
+      ],
+      "specs": {
+        "Thiết kế": "无休无止",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **无休无止**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2933383-no-ams-inuyasha-kikyo",
+      "title": "[NO AMS] Inuyasha & Kikyo",
+      "date": "2026-11-18",
+      "author": "我是奶龙",
+      "source": "https://makerworld.com/en/models/2933383-no-ams-inuyasha-kikyo",
+      "tags": [
+        "không cần AMS",
+        "Inuyasha"
+      ],
+      "specs": {
+        "Thiết kế": "我是奶龙",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **我是奶龙**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2692354-daffy-duck-the-dark-knight-batman-no-ams",
+      "title": "Daffy Duck: The Dark Knight Batman - No Ams",
+      "date": "2026-11-18",
+      "author": "Clean Studio",
+      "source": "https://makerworld.com/en/models/2692354-daffy-duck-the-dark-knight-batman-no-ams",
+      "tags": [
+        "không cần AMS",
+        "DC",
+        "hoạt hình"
+      ],
+      "specs": {
+        "Thiết kế": "Clean Studio",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Clean Studio**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2894265-groot-stitch",
+      "title": "Groot & Stitch",
+      "date": "2026-11-18",
+      "author": "Zinov3D",
+      "source": "https://makerworld.com/en/models/2894265-groot-stitch",
+      "tags": [
+        "Marvel",
+        "hoạt hình"
+      ],
+      "specs": {
+        "Thiết kế": "Zinov3D",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Zinov3D**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2524403-gojo-satoru-chibi-3d",
+      "title": "GOJO SATORU CHIBI 3D",
+      "date": "2026-11-18",
+      "author": "DREDGEN701",
+      "source": "https://makerworld.com/en/models/2524403-gojo-satoru-chibi-3d",
+      "tags": [
+        "Jujutsu Kaisen",
+        "chibi"
+      ],
+      "specs": {
+        "Thiết kế": "DREDGEN701",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **DREDGEN701**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2478646-fan-art-easter-minion-chick",
+      "title": "Fan Art Easter Minion Chick",
+      "date": "2026-11-18",
+      "author": "azizcan8",
+      "source": "https://makerworld.com/en/models/2478646-fan-art-easter-minion-chick",
+      "tags": [
+        "hoạt hình",
+        "Phục sinh"
+      ],
+      "specs": {
+        "Thiết kế": "azizcan8",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **azizcan8**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3210885-boo-sheet-ghost-with-sunglasses-statue",
+      "title": "Boo Sheet - Ghost with Sunglasses Statue",
+      "date": "2026-11-18",
+      "author": "CHurc",
+      "source": "https://makerworld.com/en/models/3210885-boo-sheet-ghost-with-sunglasses-statue",
+      "tags": [
+        "con ma",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "CHurc",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **CHurc**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2280942-valentine-s-baby-groot-figurine-and-keychain",
+      "title": "Valentine's Baby Groot figurine and keychain",
+      "date": "2026-11-18",
+      "author": "Goomol DIY",
+      "source": "https://makerworld.com/en/models/2280942-valentine-s-baby-groot-figurine-and-keychain",
+      "tags": [
+        "Marvel",
+        "Valentine",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Goomol DIY",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Goomol DIY**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2667610-elsa-princess-elsa-frozen-frozen-snow-queen-let-it",
+      "title": "Elsa Princess Elsa Frozen Frozen Snow Queen let it go Q version Multi-color disassembled parts No AMS required",
+      "date": "2026-11-18",
+      "author": "😇God😈Devil神魔造物",
+      "source": "https://makerworld.com/en/models/2667610-elsa-princess-elsa-frozen-frozen-snow-queen-let-it",
+      "tags": [
+        "không cần AMS",
+        "nhiều mảnh",
+        "hoạt hình"
+      ],
+      "specs": {
+        "Thiết kế": "😇God😈Devil神魔造物",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **😇God😈Devil神魔造物**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "1681819-princess-elsa-disassembled-and-color-separated",
+      "title": "Princess Elsa disassembled and color-separated",
+      "date": "2026-11-18",
+      "author": "Heart Memory",
+      "source": "https://makerworld.com/en/models/1681819-princess-elsa-disassembled-and-color-separated",
+      "tags": [
+        "nhiều mảnh",
+        "hoạt hình"
+      ],
+      "specs": {
+        "Thiết kế": "Heart Memory",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Heart Memory**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "1914694-cute-ghost-figure",
+      "title": "Cute Ghost Figure",
+      "date": "2026-11-18",
+      "author": "WoodquarterLabs",
+      "source": "https://makerworld.com/en/models/1914694-cute-ghost-figure",
+      "tags": [
+        "con ma",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "WoodquarterLabs",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **WoodquarterLabs**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3064899-mrs-penguin-beach-multipart-without-ams",
+      "title": "Mrs Penguin Beach Multipart without AMS",
+      "date": "2026-11-18",
+      "author": "mika",
+      "source": "https://makerworld.com/en/models/3064899-mrs-penguin-beach-multipart-without-ams",
+      "tags": [
+        "nhiều mảnh",
+        "chim cánh cụt"
+      ],
+      "specs": {
+        "Thiết kế": "mika",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **mika**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2354527-valentine-s-day-penguin-multipart-no-ams",
+      "title": "Valentine's Day Penguin multipart no AMS",
+      "date": "2026-11-18",
+      "author": "mika",
+      "source": "https://makerworld.com/en/models/2354527-valentine-s-day-penguin-multipart-no-ams",
+      "tags": [
+        "không cần AMS",
+        "nhiều mảnh",
+        "chim cánh cụt",
+        "Valentine"
+      ],
+      "specs": {
+        "Thiết kế": "mika",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **mika**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2090902-christmas-penguins-no-ams",
+      "title": "Christmas Penguins - No AMS",
+      "date": "2026-11-18",
+      "author": "Dano98",
+      "source": "https://makerworld.com/en/models/2090902-christmas-penguins-no-ams",
+      "tags": [
+        "không cần AMS",
+        "chim cánh cụt",
+        "Giáng sinh"
+      ],
+      "specs": {
+        "Thiết kế": "Dano98",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Dano98**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2019531-christmas-penguin-multipart-no-ams",
+      "title": "Christmas Penguin multipart no AMS",
+      "date": "2026-11-18",
+      "author": "mika",
+      "source": "https://makerworld.com/en/models/2019531-christmas-penguin-multipart-no-ams",
+      "tags": [
+        "không cần AMS",
+        "nhiều mảnh",
+        "chim cánh cụt",
+        "Giáng sinh"
+      ],
+      "specs": {
+        "Thiết kế": "mika",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **mika**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2830228-cute-deadpool-mini-figure-marvel",
+      "title": "Cute Deadpool Mini Figure | Marvel",
+      "date": "2026-11-18",
+      "author": "Nexora",
+      "source": "https://makerworld.com/en/models/2830228-cute-deadpool-mini-figure-marvel",
+      "tags": [
+        "Marvel",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Nexora",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Nexora**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2617222-joker-figure",
+      "title": "Joker Figure",
+      "date": "2026-11-18",
+      "author": "Nexora",
+      "source": "https://makerworld.com/en/models/2617222-joker-figure",
+      "tags": [
+        "DC",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Nexora",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Nexora**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2837374-joker-mini-figure-dc",
+      "title": "Joker Mini Figure | DC",
+      "date": "2026-11-18",
+      "author": "Markovich",
+      "source": "https://makerworld.com/en/models/2837374-joker-mini-figure-dc",
+      "tags": [
+        "DC",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Markovich",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Markovich**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2966892-joker-mini-figure-dc",
+      "title": "Joker Mini Figure | DC",
+      "date": "2026-11-18",
+      "author": "Markovich",
+      "source": "https://makerworld.com/en/models/2966892-joker-mini-figure-dc",
+      "tags": [
+        "DC",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Markovich",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Markovich**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2650358-batman-mini-figure",
+      "title": "Batman Mini Figure",
+      "date": "2026-11-18",
+      "author": "Nexora",
+      "source": "https://makerworld.com/en/models/2650358-batman-mini-figure",
+      "tags": [
+        "DC",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Nexora",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Nexora**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2717486-batman-mini-figure-dc-comics",
+      "title": "Batman Mini Figure | DC Comics",
+      "date": "2026-11-18",
+      "author": "Nexora",
+      "source": "https://makerworld.com/en/models/2717486-batman-mini-figure-dc-comics",
+      "tags": [
+        "DC",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Nexora",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Nexora**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2884150-batman-hero-stance-mini-figure-dc",
+      "title": "Batman Hero Stance Mini Figure | DC",
+      "date": "2026-11-18",
+      "author": "Nexora",
+      "source": "https://makerworld.com/en/models/2884150-batman-hero-stance-mini-figure-dc",
+      "tags": [
+        "DC",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Nexora",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Nexora**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2548754-batman-mini-figure",
+      "title": "Batman Mini Figure",
+      "date": "2026-11-18",
+      "author": "Nexora",
+      "source": "https://makerworld.com/en/models/2548754-batman-mini-figure",
+      "tags": [
+        "DC",
+        "chibi",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Nexora",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Nexora**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2974567-spiderman-urban-figure-marvel",
+      "title": "SpiderMan Urban Figure | Marvel",
+      "date": "2026-11-18",
+      "author": "Markosov",
+      "source": "https://makerworld.com/en/models/2974567-spiderman-urban-figure-marvel",
+      "tags": [
+        "Marvel",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Markosov",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Markosov**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "1914214-ghost-with-a-dog-on-a-walk",
+      "title": "Ghost with a dog on a walk",
+      "date": "2026-11-18",
+      "author": "Sevro",
+      "source": "https://makerworld.com/en/models/1914214-ghost-with-a-dog-on-a-walk",
+      "tags": [
+        "con ma"
+      ],
+      "specs": {
+        "Thiết kế": "Sevro",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Sevro**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3042311-messi-world-cup-special",
+      "title": "Messi World Cup Special",
+      "date": "2026-11-18",
+      "author": "EasyFigureMaker",
+      "source": "https://makerworld.com/en/models/3042311-messi-world-cup-special",
+      "tags": [
+        "bóng đá"
+      ],
+      "specs": {
+        "Thiết kế": "EasyFigureMaker",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **EasyFigureMaker**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3026612-cristiano-ronaldo-cr7-world-cup-football-miniature",
+      "title": "Cristiano Ronaldo CR7 World Cup Football Miniature",
+      "date": "2026-11-18",
+      "author": "OverdoseCreative",
+      "source": "https://makerworld.com/en/models/3026612-cristiano-ronaldo-cr7-world-cup-football-miniature",
+      "tags": [
+        "bóng đá"
+      ],
+      "specs": {
+        "Thiết kế": "OverdoseCreative",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **OverdoseCreative**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2910310-spider-man-urban-figure-marvel",
+      "title": "Spider-Man Urban Figure | Marvel",
+      "date": "2026-11-18",
+      "author": "Markosov",
+      "source": "https://makerworld.com/en/models/2910310-spider-man-urban-figure-marvel",
+      "tags": [
+        "Marvel",
+        "figure"
+      ],
+      "specs": {
+        "Thiết kế": "Markosov",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Markosov**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2413543-donald-duck-urban",
+      "title": "Donald Duck Urban",
+      "date": "2026-11-18",
+      "author": "lucamoretti86",
+      "source": "https://makerworld.com/en/models/2413543-donald-duck-urban",
+      "tags": [
+        "hoạt hình"
+      ],
+      "specs": {
+        "Thiết kế": "lucamoretti86",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **lucamoretti86**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
     }
   ]
 }

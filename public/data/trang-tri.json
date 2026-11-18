@@ -5,42 +5,125 @@
   "description": "Đồ decor bàn làm việc, phòng ngủ, quà tặng.",
   "products": [
     {
-      "id": "den-ngu-mat-trang",
-      "title": "Đèn ngủ mặt trăng có chân đế",
-      "date": "2026-11-15",
-      "featured": true,
-      "price": "180.000đ",
-      "tags": ["đèn", "mặt trăng", "decor", "quà tặng"],
-      "specs": { "Đường kính": "12 cm", "Chất liệu": "PLA trắng", "Đèn": "LED USB (mua kèm)" },
-      "profiles": [
-        { "name": "0.12mm layer, 2 walls, 0% infill", "badge": "Mịn", "time": "14 h", "plates": 2 },
-        { "name": "0.2mm layer, 2 walls, 0% infill", "time": "7.8 h", "plates": 2 }
+      "id": "3240275-whispering-branches-iv-organic-jewelry-tree-stand",
+      "title": "Whispering Branches IV -Organic Jewelry Tree Stand",
+      "date": "2026-11-18",
+      "author": "camiocadesign",
+      "source": "https://makerworld.com/en/models/3240275-whispering-branches-iv-organic-jewelry-tree-stand",
+      "tags": [
+        "trang sức",
+        "giá đỡ"
       ],
+      "specs": {
+        "Thiết kế": "camiocadesign",
+        "Nguồn": "MakerWorld"
+      },
       "description": [
-        "Đèn mặt trăng in bằng nhựa trắng mỏng, khi bật đèn sẽ hiện rõ các miệng hố.",
+        "Mẫu thiết kế bởi **camiocadesign**, đăng trên MakerWorld.",
         "",
-        "- Chân đế gỗ giả, có rãnh luồn dây",
-        "- Dùng bóng LED USB 5V"
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
       ]
     },
     {
-      "id": "chau-cay-low-poly",
-      "title": "Chậu cây low-poly tự thoát nước",
-      "date": "2026-11-05",
-      "tags": ["chậu cây", "low-poly", "decor"],
-      "specs": { "Kích thước": "10 x 10 x 9 cm", "Chất liệu": "PETG" },
-      "profiles": [{ "name": "0.2mm layer, 3 walls, 15% infill", "time": "4.3 h", "plates": 1 }],
-      "description": "Chậu cây kiểu đa giác, có khay hứng nước bên dưới. Nên in PETG để chịu nước tốt hơn."
+      "id": "3181066-whispering-branches-ii-organic-jewelry-tree-stand",
+      "title": "Whispering Branches II -Organic Jewelry Tree Stand",
+      "date": "2026-11-18",
+      "author": "camiocadesign",
+      "source": "https://makerworld.com/en/models/3181066-whispering-branches-ii-organic-jewelry-tree-stand",
+      "tags": [
+        "trang sức",
+        "giá đỡ"
+      ],
+      "specs": {
+        "Thiết kế": "camiocadesign",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **camiocadesign**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
     },
     {
-      "id": "bang-ten-cua",
-      "title": "Bảng tên treo cửa theo yêu cầu",
-      "date": "2026-10-20",
-      "price": "từ 60.000đ",
-      "tags": ["bảng tên", "cá nhân hoá", "quà tặng"],
-      "specs": { "Kích thước": "20 x 8 cm", "Số màu": "2 màu" },
-      "profiles": [{ "name": "0.2mm layer, 2 walls, 20% infill", "time": "2.5 h", "plates": 1 }],
-      "description": "Gửi tên bạn muốn in, mình sẽ dựng chữ và in 2 màu. Có lỗ treo phía sau."
+      "id": "1577641-key-jewelry-organizer-tree",
+      "title": "Key / jewelry organizer tree",
+      "date": "2026-11-18",
+      "author": "pozsar",
+      "source": "https://makerworld.com/en/models/1577641-key-jewelry-organizer-tree",
+      "tags": [
+        "trang sức",
+        "giá đỡ"
+      ],
+      "specs": {
+        "Thiết kế": "pozsar",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **pozsar**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2263934-fairy-tree-jewelry-organizer-necklace-ring-stand",
+      "title": "Fairy Tree Jewelry Organizer Necklace & Ring Stand",
+      "date": "2026-11-18",
+      "author": "DeskForm Studio",
+      "source": "https://makerworld.com/en/models/2263934-fairy-tree-jewelry-organizer-necklace-ring-stand",
+      "tags": [
+        "trang sức",
+        "giá đỡ"
+      ],
+      "specs": {
+        "Thiết kế": "DeskForm Studio",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **DeskForm Studio**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "2799305-jewelry-tree-stand",
+      "title": "Jewelry Tree Stand",
+      "date": "2026-11-18",
+      "author": "Elisniper",
+      "source": "https://makerworld.com/en/models/2799305-jewelry-tree-stand",
+      "tags": [
+        "trang sức",
+        "giá đỡ"
+      ],
+      "specs": {
+        "Thiết kế": "Elisniper",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Elisniper**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
+    },
+    {
+      "id": "3338579-bat-tree-ring-holder-jewellery-tray",
+      "title": "Bat Tree Ring Holder & Jewellery Tray",
+      "date": "2026-11-18",
+      "author": "Yumi_Raven",
+      "source": "https://makerworld.com/en/models/3338579-bat-tree-ring-holder-jewellery-tray",
+      "tags": [
+        "Halloween",
+        "trang sức",
+        "giá đỡ"
+      ],
+      "specs": {
+        "Thiết kế": "Yumi_Raven",
+        "Nguồn": "MakerWorld"
+      },
+      "description": [
+        "Mẫu thiết kế bởi **Yumi_Raven**, đăng trên MakerWorld.",
+        "",
+        "Liên hệ để đặt in theo màu và kích thước bạn muốn."
+      ]
     }
   ]
 }

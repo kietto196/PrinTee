@@ -463,6 +463,7 @@
 
     const contact = S.site.contact && S.site.contact.url ? [S.site.contact] : [];
     const links = (Array.isArray(p.links) && p.links.length ? p.links : contact).filter((l) => l && l.url);
+    if (p.source) links.push({ label: 'Xem mẫu gốc trên MakerWorld', url: p.source });
     const imgs = p.media.filter((m) => m.type === 'image').length;
     const vids = p.media.length - imgs;
     const specs = Object.entries(p.specs || {}).filter(([, v]) => v !== '' && v != null);
