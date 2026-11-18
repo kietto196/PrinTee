@@ -53,6 +53,7 @@
     },
     {
       "id": "friendly-greeting-ghost-flexi-when-pressed",
+      "hidden": true,
       "title": "Friendly greeting ghost! Flexi when pressed",
       "date": "2026-11-18",
       "tags": [
