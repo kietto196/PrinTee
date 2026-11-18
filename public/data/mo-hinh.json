@@ -1,0 +1,60 @@
+{
+  "name": "Mô hình",
+  "icon": "🐉",
+  "order": 1,
+  "description": "Mô hình khớp nối, mô hình in liền khối, không cần lắp ráp.",
+  "products": [
+    {
+      "id": "rong-khop-noi",
+      "title": "Rồng khớp nối in liền khối [Không cần AMS]",
+      "date": "2026-11-17",
+      "featured": true,
+      "price": "120.000đ",
+      "tags": ["rồng", "khớp nối", "flexi", "print in place"],
+      "specs": {
+        "Kích thước": "28 cm (dài)",
+        "Chất liệu": "PLA Silk",
+        "Số màu": "1 màu (hoặc đổi màu theo lớp)",
+        "Lắp ráp": "Không cần, in liền khối"
+      },
+      "profiles": [
+        { "name": "0.2mm layer, 2 walls, 15% infill", "badge": "Khuyên dùng", "time": "6.5 h", "plates": 1 },
+        { "name": "0.16mm layer, 3 walls, 10% infill", "time": "9.2 h", "plates": 1 }
+      ],
+      "description": [
+        "Rồng **khớp nối in liền khối**: in xong bẻ nhẹ là các khớp chuyển động được ngay, không cần lắp ráp hay keo dán.",
+        "",
+        "## Điểm nổi bật",
+        "- Thân 24 đốt, uốn lượn mềm mại",
+        "- Hợp với nhựa Silk đổi màu, nhìn rất bắt mắt",
+        "- Không cần support",
+        "",
+        "## Gợi ý khi in",
+        "1. Bàn in phải thật phẳng, nên dùng keo dán bàn",
+        "2. Tốc độ lớp đầu khoảng 30 mm/s",
+        "3. In xong để nguội rồi mới gỡ, bẻ nhẹ từng khớp"
+      ]
+    },
+    {
+      "id": "ca-map-flexi",
+      "title": "Cá mập Flexi mini",
+      "date": "2026-11-12",
+      "price": "45.000đ",
+      "tags": ["cá mập", "flexi", "khớp nối", "quà tặng"],
+      "specs": { "Kích thước": "15 cm", "Chất liệu": "PLA", "Số màu": "2 màu" },
+      "profiles": [{ "name": "0.2mm layer, 2 walls, 15% infill", "time": "2.1 h", "plates": 1 }],
+      "description": "Cá mập nhỏ uốn được, làm quà tặng hoặc móc khoá rất hợp.\nIn nhanh, chỉ khoảng 2 tiếng."
+    },
+    {
+      "id": "xe-tang-mini",
+      "title": "Xe tăng mini lắp ráp (bánh xích chạy được)",
+      "date": "2026-10-28",
+      "tags": ["xe", "lắp ráp", "mô hình"],
+      "specs": { "Kích thước": "18 cm", "Chất liệu": "PLA + TPU (bánh xích)", "Số chi tiết": "32" },
+      "profiles": [
+        { "name": "0.16mm layer, 3 walls, 15% infill", "time": "11.4 h", "plates": 4 }
+      ],
+      "description": "Mô hình xe tăng gồm 32 chi tiết, ráp bằng chốt, **không cần keo**. Bánh xích in bằng TPU nên lăn được thật."
+    }
+  ]
+}

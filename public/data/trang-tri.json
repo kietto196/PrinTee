@@ -1,0 +1,46 @@
+{
+  "name": "Trang trí",
+  "icon": "🪴",
+  "order": 2,
+  "description": "Đồ decor bàn làm việc, phòng ngủ, quà tặng.",
+  "products": [
+    {
+      "id": "den-ngu-mat-trang",
+      "title": "Đèn ngủ mặt trăng có chân đế",
+      "date": "2026-11-15",
+      "featured": true,
+      "price": "180.000đ",
+      "tags": ["đèn", "mặt trăng", "decor", "quà tặng"],
+      "specs": { "Đường kính": "12 cm", "Chất liệu": "PLA trắng", "Đèn": "LED USB (mua kèm)" },
+      "profiles": [
+        { "name": "0.12mm layer, 2 walls, 0% infill", "badge": "Mịn", "time": "14 h", "plates": 2 },
+        { "name": "0.2mm layer, 2 walls, 0% infill", "time": "7.8 h", "plates": 2 }
+      ],
+      "description": [
+        "Đèn mặt trăng in bằng nhựa trắng mỏng, khi bật đèn sẽ hiện rõ các miệng hố.",
+        "",
+        "- Chân đế gỗ giả, có rãnh luồn dây",
+        "- Dùng bóng LED USB 5V"
+      ]
+    },
+    {
+      "id": "chau-cay-low-poly",
+      "title": "Chậu cây low-poly tự thoát nước",
+      "date": "2026-11-05",
+      "tags": ["chậu cây", "low-poly", "decor"],
+      "specs": { "Kích thước": "10 x 10 x 9 cm", "Chất liệu": "PETG" },
+      "profiles": [{ "name": "0.2mm layer, 3 walls, 15% infill", "time": "4.3 h", "plates": 1 }],
+      "description": "Chậu cây kiểu đa giác, có khay hứng nước bên dưới. Nên in PETG để chịu nước tốt hơn."
+    },
+    {
+      "id": "bang-ten-cua",
+      "title": "Bảng tên treo cửa theo yêu cầu",
+      "date": "2026-10-20",
+      "price": "từ 60.000đ",
+      "tags": ["bảng tên", "cá nhân hoá", "quà tặng"],
+      "specs": { "Kích thước": "20 x 8 cm", "Số màu": "2 màu" },
+      "profiles": [{ "name": "0.2mm layer, 2 walls, 20% infill", "time": "2.5 h", "plates": 1 }],
+      "description": "Gửi tên bạn muốn in, mình sẽ dựng chữ và in 2 màu. Có lỗ treo phía sau."
+    }
+  ]
+}

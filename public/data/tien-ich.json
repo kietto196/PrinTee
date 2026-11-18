@@ -1,0 +1,36 @@
+{
+  "name": "Tiện ích",
+  "icon": "🛠️",
+  "order": 3,
+  "description": "Đồ dùng hằng ngày: giá đỡ, hộp đựng, móc treo.",
+  "products": [
+    {
+      "id": "gia-do-dien-thoai",
+      "title": "Giá đỡ điện thoại gập gọn",
+      "date": "2026-11-16",
+      "price": "35.000đ",
+      "tags": ["giá đỡ", "điện thoại", "bàn làm việc"],
+      "specs": { "Kích thước": "9 x 7 cm (gập)", "Chất liệu": "PLA", "Góc nghiêng": "3 nấc" },
+      "profiles": [{ "name": "0.2mm layer, 3 walls, 20% infill", "time": "1.6 h", "plates": 1 }],
+      "description": "Giá đỡ có bản lề in liền, gập lại bỏ túi được. Chỉnh được 3 góc nghiêng."
+    },
+    {
+      "id": "hop-dung-but",
+      "title": "Hộp đựng bút xoay 4 ngăn",
+      "date": "2026-11-02",
+      "tags": ["hộp", "bàn làm việc", "lưu trữ"],
+      "specs": { "Kích thước": "11 x 11 x 12 cm", "Chất liệu": "PLA" },
+      "profiles": [{ "name": "0.2mm layer, 2 walls, 10% infill", "time": "5.2 h", "plates": 2 }],
+      "description": "Hộp bút có đế xoay 360°, 4 ngăn to nhỏ khác nhau."
+    },
+    {
+      "id": "moc-treo-tai-nghe",
+      "title": "Móc treo tai nghe kẹp bàn",
+      "date": "2026-10-15",
+      "tags": ["tai nghe", "móc treo", "bàn làm việc"],
+      "specs": { "Độ dày bàn": "tối đa 4 cm", "Chất liệu": "PETG" },
+      "profiles": [{ "name": "0.2mm layer, 4 walls, 25% infill", "time": "2.9 h", "plates": 1 }],
+      "description": "Kẹp vào mép bàn, không cần khoan. Nên in PETG cho chắc."
+    }
+  ]
+}

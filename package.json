@@ -1,0 +1,13 @@
+{
+  "name": "printee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PrinTee - web trưng bày mẫu in 3D (web tĩnh, dữ liệu từ JSON)",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "build": "node scripts/build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

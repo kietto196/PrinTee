@@ -1,0 +1,17 @@
+{
+  "name": "PrinTee",
+  "tagline": "Mô hình in 3D độc đáo, in theo yêu cầu",
+  "description": "Xem ảnh, video và thông số in của từng mẫu. Ưng mẫu nào cứ nhắn mình để đặt in hoặc nhận file.",
+  "heroEyebrow": "Bộ sưu tập mẫu in 3D",
+  "author": "PrinTee",
+  "contact": {
+    "label": "Liên hệ đặt in",
+    "url": "https://zalo.me/0900000000"
+  },
+  "links": [
+    { "type": "facebook", "label": "Facebook", "url": "https://facebook.com/" },
+    { "type": "zalo", "label": "Zalo", "url": "https://zalo.me/0900000000" },
+    { "type": "tiktok", "label": "TikTok", "url": "https://tiktok.com/" },
+    { "type": "shopee", "label": "Shopee", "url": "https://shopee.vn/" }
+  ]
+}

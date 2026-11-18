@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PrinTee · Mẫu in 3D</title>
+  <meta name="description" content="PrinTee - bộ sưu tập mẫu in 3D: ảnh, video và thông số in của từng sản phẩm.">
+  <meta name="theme-color" content="#141414">
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+  <meta property="og:title" content="PrinTee · Mẫu in 3D">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div class="app" id="app">
+    <aside class="sidebar" id="sidebar" aria-label="Menu"></aside>
+    <div class="scrim" id="scrim"></div>
+
+    <div class="main">
+      <header class="topbar">
+        <button class="icon-btn only-mobile" id="menuBtn" aria-label="Mở menu"></button>
+        <a class="brand only-mobile" href="#/" id="mobileBrand"></a>
+        <form class="search" id="searchForm" role="search" autocomplete="off">
+          <span class="search-ico" id="searchIco"></span>
+          <input id="q" type="search" placeholder="Tìm mẫu in… (nhấn / để tìm nhanh)" aria-label="Tìm kiếm">
+          <div class="suggest" id="suggest" hidden></div>
+        </form>
+        <div class="top-actions" id="topActions"></div>
+      </header>
+
+      <main class="view" id="view">
+        <div class="loading"><span class="spinner"></span>Đang tải…</div>
+      </main>
+
+      <footer class="footer" id="footer"></footer>
+    </div>
+  </div>
+
+  <div class="lightbox" id="lightbox" hidden></div>
+  <div class="toast" id="toast" role="status"></div>
+  <button class="to-top" id="toTop" aria-label="Lên đầu trang"></button>
+
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
